@@ -38,7 +38,7 @@ No installation necessary! Merely click [here](https://cperezba.github.io/Work-D
 
 To use the 'Work Day Scheduler'  merely type in the required to-do item and click on the blue "save" button on the right hand side. The application will save your entry and preserve it in memory.
 
-![Application's User Interface](assets\images\main-application.PNG)
+![Application's User Interface](assets/images/main-application.PNG)
 
 To edit or delete the entry, merely clear the selection and, again, click the blue "save button on the right hand side. The entry will no longer be kept in memory.
 

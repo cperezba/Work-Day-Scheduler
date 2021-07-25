@@ -29,7 +29,7 @@ This simple application's purpose is to create a daily work scheduler. It takes 
 
 ## <a id="installation-header"></a> Installation
 
-No installation necessary! Merely click [here](https://cperezba.github.io/Work-Day-Scheduler/) to reach the application: 
+No installation necessary! Merely click [here](https://cperezba.github.io/Work-Day-Scheduler/) to reach the application.
 
 
 <br/>
